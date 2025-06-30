@@ -25,6 +25,8 @@ Sou curiosa, prática e apaixonada por transformar ideias em código.
   <img src="https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=000000" />
   <img src="https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=000000" />
   <img src="https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=000000" />
+ 
+
 </div>
 
 
